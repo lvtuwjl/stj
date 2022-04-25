@@ -26,7 +26,7 @@ func StructToJson(d *D) string {
 
 	i := cast.ToInt(s)
 
-	fmt.Println("i value is:", i)
+	fmt.Println("i value111 is:", i)
 
 	return string(bytes)
 }
